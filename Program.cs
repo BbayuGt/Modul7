@@ -1,4 +1,4 @@
 ﻿using Modul7;
 
-Watchlist_103022400082.ReadJSON();
+GenreDictionary_103022400040.ReadJSON();
 
