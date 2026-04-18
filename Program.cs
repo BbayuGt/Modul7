@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Modul7;
+
+GenreDictionary_103022400040.ReadJSON();
+
